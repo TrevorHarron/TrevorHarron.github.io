@@ -4,23 +4,24 @@
 
 ### DigiPen Game Projects 
 
-[Ship It](/sample_page)
+[Ship It]
+Roles:
+  Lead Designer
+  System Designer 
+  Level Designer 
+  Physics Programmer
+  General Engine Engineer
 <iframe width="560" height="315" src="https://www.youtube.com/embed/drE5weqtC00" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Video curtesy of Ivan Cazares Lopez
 
 ---
 
-### Category Name 2
+### Published Board Games
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Collectors and Capers](https://www.blueherongames.com/collectors-and-capers)
+- [Affectionate: Cats and Cuddles](https://www.blueherongames.com/affectionate)
+- [It's Treat Time Expansion](https://www.blueherongames.com/store/ts-treat-time-expansion)
 
 ---
 
-
-
-
----
 
