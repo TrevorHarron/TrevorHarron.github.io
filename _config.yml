@@ -1,10 +1,33 @@
 title: Trevor Harron # your name (or website title) here
 logo: "/images/tre-logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Game designer and Programmer
   <br><br>
-  Second description 
+Programming Experience: 
+<ul>
+    <li>4 years of Development Experecience</li>
+    <li>Proficient in C/C++, Java, C#, and Python</li>
+    <li>Experience working on teams of all sizes and collaborating with multiple disciplines</li>
+ </ul>
+    <br><br>
+Design Experience
+  <ul>
+    <li>Published two board games and an Expansion</li> 
+    <li>Successfully funded via Kickstarter </li>
+    <li>Lead Designer on Multiple School Game Projects</li>
+  </ul>
+    <br><br>
+Graduate of DigoPen Institute of Technology (2020)
+<ul>
+    <li>Master's in Computer Science </li>
+</ul>
+    <br><br>
+Bachelors from Middlebury College (2014)
+<ul>
+    <li> Major: Computer Science </li>
+     <li> Minor:  Music</li>
+</ul>
   <br><br>
-  <a href="https://www.linkedin.com/in/trharron/">LinkedIn Profile</a> 
+<a href="https://www.linkedin.com/in/trharron/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-modernist
