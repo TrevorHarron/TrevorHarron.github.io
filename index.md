@@ -31,7 +31,7 @@ with a combination of C++ and lua for scripting.
 --
 Modulo is a 2D precision platformer with puzzle elements where you are Modulo a robot trying to save their friends from an evil AI. As you go through each level you can collect powerups to help you traverse the level and avoid enemies as well as allow for the opening and closing of blocks associated with the powerup. Players need to master the powerups as intended as well as enabling and disabling blocks to traverse the levels and avoid enemies to save all of Modulo's friends.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MxHkRL7wMAw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Video curtesy of Ivan Cazares Lopez
+
 Roles:
   - Producer: Managed team to develop needed features
   - Lead Designer: created and developed story, core mechanics, and gameplay.
