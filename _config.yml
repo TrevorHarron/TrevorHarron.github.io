@@ -1,33 +1,14 @@
 title: Trevor Harron # your name (or website title) here
 logo: "/images/tre-logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Game designer and Programmer
+  Game designer and Programmer with a Masters from DigiPen Institute of Technology in Computer Science and a Bachelors of Computer Science from Middlebury College.
+  I have 4 years of Professional Software Development Experecience in bother developer and development testing roles. I am proficient in multiple programming 
+  languages including C/C++, Java, C#, and Python. I have experience working on teams of all sizes and collaborating with multiple disciplines. 
   <br><br>
-Programming Experience: 
-<ul>
-    <li>4 years of Development Experecience</li>
-    <li>Proficient in C/C++, Java, C#, and Python</li>
-    <li>Experience working on teams of all sizes and collaborating with multiple disciplines</li>
- </ul>
-    <br><br>
-Design Experience
-  <ul>
-    <li>Published two board games and an Expansion</li> 
-    <li>Successfully funded via Kickstarter </li>
-    <li>Lead Designer on Multiple School Game Projects</li>
-  </ul>
-    <br><br>
-Graduate of DigoPen Institute of Technology (2020)
-<ul>
-    <li>Master's in Computer Science </li>
-</ul>
-    <br><br>
-Bachelors from Middlebury College (2014)
-<ul>
-    <li> Major: Computer Science </li>
-     <li> Minor:  Music</li>
-</ul>
+  As a Game Designer I have experience publishing two board games and an expansion witt successful Kickstarter campaigns. At DigiPen I also supplimented my 
+  design expereience with additional coursework and was the Lead Designer on Multiple School Game Projects. Currently learning Unreal and Unity while working 
+  on my own game projects and engine.
   <br><br>
-<a href="https://www.linkedin.com/in/trharron/">LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/trharron/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-modernist
