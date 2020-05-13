@@ -10,9 +10,9 @@ Ship It is a DigiPen game project built with a custom engine using opengl, fmod,
 with a combination of C++ and Python for scripting. Ship It was created for the GAM550 and GAM551 classes. 
 --
 The goal of Ship It is to work with your friends to develop as many games as possible using the basic building blocks of game development, Programming, and Art. Using the basic elements, player have to navigate differnet levels to develop more complex features to fufill game orders in order to clear each level.
-- Video curtesy of Ivan Cazares Lopez
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5ix4-6bU1cQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5ix4-6bU1cQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Video curtesy of Ivan Cazares Lopez
 
 Roles:
   - Lead Designer: Worked with producer to ensure that vision of the game was maintained at all times. Ran multiple playtesting sessions 
